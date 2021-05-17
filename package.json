@@ -1,7 +1,7 @@
 {
-  "name": "reveal.js-beamer-themes",
+  "name": "reveal.js-slide-background",
   "version": "0.0.1",
-  "description": "Make slides resembling beamer",
+  "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "gulp"
